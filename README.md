@@ -5,6 +5,7 @@ Picture bed for personal use, mainly in markdown notes/blogs.
 - MacOS uPic
 
 ## Usage
+- Generally in markdown, `![bala](address in picture bed)`
 - With uPic client in Mac,using the address(with dns optimization) it automatically generrated in paste board each time you upload a image in this picture bed
 - Without uPic, it is also ok
   - Correct usage: enter the root if image, right click and select `copy link address` ,like
